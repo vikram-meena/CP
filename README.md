@@ -31,4 +31,7 @@ Problem List Inspired by [link](https://takeuforward.org/interviews/strivers-sde
 [Inversion of Array](https://www.codingninjas.com/codestudio/problems/count-inversions_615)
 
 ### ML Concepts Revision
-Logistic Regression [link]
+
+Linear Regression [link](Wait)
+
+Logistic Regression [link](Wait)
